@@ -1,0 +1,16 @@
+{
+	"name": "Ls_Oracle",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "Oracle",
+		"typeProperties": {
+			"connectionString": "host=localhost;port=1521;sid=XE;user id=system",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1MWVmNzJiMy0yMmJlLTQ4NzgtOWVmMi0xMWIzYmE4YWY4NzkiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "shirbillo",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "billoadf204",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e66cfa7-6bc5-4253-9e3b-33ce5fd0c12f",
+		"tenantId": "6f98ff99-1ecd-475a-a6dc-2c4555b7ee54"
+	}
+}
